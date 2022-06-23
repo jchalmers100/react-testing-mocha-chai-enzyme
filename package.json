@@ -31,7 +31,7 @@
     "enzyme": "^3.10.0",
     "enzyme-adapter-react-16": "^1.14.0",
     "ignore-styles": "^5.0.1",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "mocha": "^6.2.0",
     "react-hot-loader": "^4.12.10",
     "sinon": "^7.3.2",
